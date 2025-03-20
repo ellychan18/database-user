@@ -13,6 +13,6 @@
            "USERNAME": "admin",
            "PASSWORD": "admin123",
            "BANNED": false,
-           "MAINTENANCE": false
+           "MAINTENANCE": true
        }
 ]
