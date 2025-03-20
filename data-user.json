@@ -1,0 +1,18 @@
+[
+       {
+           "OWNER": "Ibad",
+           "ACCESS": true,
+           "USERNAME": "ibad",
+           "PASSWORD": "ibadcode",
+           "BANNED": false,
+           "MAINTENANCE": false
+       },
+       {
+           "OWNER": "EllBot",
+           "ACCESS": true,
+           "USERNAME": "admin",
+           "PASSWORD": "admin123",
+           "BANNED": false,
+           "MAINTENANCE": false
+       }
+]
